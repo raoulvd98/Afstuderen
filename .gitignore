@@ -1,0 +1,5 @@
+bin/
+target/
+obj/
+V1/Python/__pycache__
+V1/Python/models

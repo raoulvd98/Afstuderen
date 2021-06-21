@@ -1,0 +1,200 @@
+[
+  {
+    "Id": "1",
+    "category": "btw",
+    "example": "let op! prijs ex btw en ex bpm!",
+    "isPositive": false
+  },
+  {
+    "Id": "2",
+    "category": "btw",
+    "example": "prijs is exclusief btw.",
+    "isPositive": false
+  },
+  {
+    "Id": "3",
+    "category": "btw",
+    "example": "voor de meeneemprijs is de auto rijklaar, inclusief btw, bpm, apk en leges",
+    "isPositive": true
+  },
+  {
+    "Id": "4",
+    "category": "btw",
+    "example": "de genoemde verkoopprijs is een basisprijs exclusief btw, bpm en leges.",
+    "isPositive": false
+  },
+  {
+    "Id": "5",
+    "category": "btw",
+    "example": "de genoemde verkoopprijs is een basisprijs inclusief btw, bpm en leges. ",
+    "isPositive": true
+  },
+  {
+    "Id": "6",
+    "category": "btw",
+    "example": "verkoopprijs is exclusief btw",
+    "isPositive": false
+  },
+  {
+    "Id": "7",
+    "category": "btw",
+    "example": "de prijs is inclusief btw",
+    "isPositive": true
+  },
+  {
+    "Id": "8",
+    "category": "btw",
+    "example": "De verkoopprijs is inclusief btw",
+    "isPositive": true
+  },
+  {
+    "Id": "9",
+    "category": "btw",
+    "example": "De verkoopprijs is exclusief btw",
+    "isPositive": false
+  },
+  {
+    "Id": "10",
+    "category": "btw",
+    "example": "Deze prijs is inclusief btw",
+    "isPositive": true
+  },
+  {
+    "Id": "11",
+    "category": "btw",
+    "example": "Deze prijs is exclusief btw",
+    "isPositive": false
+  },
+  {
+    "Id": "12",
+    "category": "btw",
+    "example": "De rijklaarprijs is incl. btw",
+    "isPositive": true
+  },
+  {
+    "Id": "13",
+    "category": "btw",
+    "example": "De rijklaarprijs is excl. btw",
+    "isPositive": false
+  },
+  {
+    "Id": "14",
+    "category": "btw",
+    "example": "De rijklaarprijs is getoond met de btw daarbij inbegrepen",
+    "isPositive": true
+  },
+  {
+    "Id": "15",
+    "category": "btw",
+    "example": "De rijklaarprijs is zonder de btw",
+    "isPositive": false
+  },
+  {
+    "Id": "16",
+    "category": "btw",
+    "example": "Zakelijk kost deze auto €23000 ex btw",
+    "isPositive": true
+  },
+  {
+    "Id": "17",
+    "category": "btw",
+    "example": "De zakelijke rijklaarprijs is €17000 exclusief btw",
+    "isPositive": true
+  },
+  {
+    "Id": "18",
+    "category": "btw",
+    "example": "De rijklaarprijs is €25000 exclusief btw",
+    "isPositive": false
+  },
+  {
+    "Id": "19",
+    "category": "btw",
+    "example": "De verkoopprijs is exclusief btw",
+    "isPositive": false
+  },
+  {
+    "Id": "98b403d8-5c38-4bb6-8660-930229f91b6b",
+    "category": "test",
+    "example": "example!!",
+    "isPositive": false
+  },
+  {
+    "Id": "98b403d8-5c38-4bb6-8660-",
+    "category": "test",
+    "example": "example!!",
+    "isPositive": false
+  },
+  {
+    "Id": "61243bdf-6eea-41c1-8b86-83a7386def44",
+    "category": "bovagGuarantee",
+    "example": "U krijgt minimaal 12 maanden BOVAG garantie",
+    "isPositive": true
+  },
+  {
+    "Id": "b1d1e0f4-540c-4d7c-9a7d-642280dc5b6e",
+    "category": "bovagGuarantee",
+    "example": "Voor €595 bieden wij u 6 maanden BOVAG garantie aan",
+    "isPositive": false
+  },
+  {
+    "Id": "49616865-0a9c-4bd2-a735-42f72351cbe1",
+    "category": "bovagGuarantee",
+    "example": "Bovenop de 6 maanden gratis, kunt u voor maar €200 euro 6 maanden extra aanschaffen",
+    "isPositive": true
+  },
+  {
+    "Id": "d2ae756e-1acc-448b-a2a5-95f47c7ee3b8",
+    "category": "bovagGuarantee",
+    "example": "De advertentie is inclusief 6 maanden bovag garantie",
+    "isPositive": true
+  },
+  {
+    "Id": "b227e00a-c45a-469c-8b9c-f9cbbde2adea",
+    "category": "bovagGuarantee",
+    "example": "Bij deze advertentie zit geen bovag garantie inbegrepen",
+    "isPositive": false
+  },
+  {
+    "Id": "63682cdb-be48-4af8-996d-528dcc9a7426",
+    "category": "bovagGuarantee",
+    "example": "Voor 250 euro krijgt u 6 maanden bovag garantie",
+    "isPositive": false
+  },
+  {
+    "Id": "735bfb61-3fe1-48ab-a7cc-ca8e383c204c",
+    "category": "bovagGuarantee",
+    "example": "Als u bij ons een jong gebruikte auto koopt, krijgt u automatisch 24 maanden garantie bij levering",
+    "isPositive": true
+  },
+  {
+    "Id": "f3a161b5-971e-4722-b65e-3e68036ae768",
+    "category": "priceAllIn",
+    "example": "De vermelde prijs van deze occasion is een meeneemprijs",
+    "isPositive": true
+  },
+  {
+    "Id": "62cb8678-fa76-4da4-bc1e-592f1ffa3787",
+    "category": "bovagGuarantee",
+    "example": "omvat naast de BOVAG of resterende fabrieksgarantie een afleverbeurt volgens fabrieksvoorschriften",
+    "isPositive": true
+  },
+  {
+    "Id": "ebc9528a-d502-4ea6-aa11-d0ac6cb93018",
+    "category": "bovagGuarantee",
+    "example": "Dit afleverpakket bevat: BOVAG garantie (6 maanden)",
+    "isPositive": true
+  },
+  {
+    "Id": "76978539-7a95-4b99-8992-82f00bc8f622",
+    "category": "bovagGuarantee",
+    "example": "Dit afleverpakket is zonder BOVAG garantie (6 maanden)",
+    "isPositive": false
+  },
+  {
+    "Id": "a2878ce1-a74a-4c1e-953a-f803ee0d8429",
+    "category": "bovagGuarantee",
+    "example": "6 maanden BOVAG-garantie",
+    "isPositive": true
+  }
+]

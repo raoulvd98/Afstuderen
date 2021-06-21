@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SpaCyTraningModel", "SpaCyTraningModel\SpaCyTraningModel.pyproj", "{E1AE1FB7-67D9-45F6-B301-D81E464EB7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AE1FB7-67D9-45F6-B301-D81E464EB7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AE1FB7-67D9-45F6-B301-D81E464EB7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6C726B-1569-4CEB-93EB-C7D24DDE0410}
+	EndGlobalSection
+EndGlobal

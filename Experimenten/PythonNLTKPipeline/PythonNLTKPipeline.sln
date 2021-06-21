@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonNLTKPipeline", "PythonNLTKPipeline\PythonNLTKPipeline.pyproj", "{3F4DDD83-768B-4309-AAEB-CEEEE3207D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F4DDD83-768B-4309-AAEB-CEEEE3207D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4DDD83-768B-4309-AAEB-CEEEE3207D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09D46E8-2027-4685-AEFC-006212B0DF05}
+	EndGlobalSection
+EndGlobal
